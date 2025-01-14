@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+So far in exploring computer science, I have learned how to use the Linux basics, what kind of details improve the quality of websites, and the importance of thinking of your audience when creating a website. I am confused about the vocab used to navigate a lot of these different coding websites.
+
 <!--
 **beatricecrick/beatricecrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
